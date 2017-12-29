@@ -5,6 +5,7 @@ function konami(e) {
     let index = 0; 
     
     if (key == code[index]) {
+      console.log(key)
       index++ 
       
       if (index == code.length) {
