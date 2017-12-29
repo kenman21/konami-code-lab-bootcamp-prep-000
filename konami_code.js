@@ -5,7 +5,7 @@ function init() {
   
   function konami(e) {
     codeEntered = []
-    
+    codeEntered
   }
   
   body.addEventListner('keydown', alert)
