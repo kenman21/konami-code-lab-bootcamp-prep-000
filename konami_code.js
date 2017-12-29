@@ -4,6 +4,7 @@ function init() {
   const body = querySelector('body')
   
   function konami(e) {
+    codeEntered = []
     
   }
   
