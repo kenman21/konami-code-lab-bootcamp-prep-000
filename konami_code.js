@@ -20,9 +20,7 @@ function konami(e) {
 
 function init() {
   const body = querySelector('body')
-  
 
-  
   body.addEventListner('keydown', alert)
 
 }
